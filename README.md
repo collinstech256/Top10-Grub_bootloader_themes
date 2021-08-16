@@ -6,7 +6,9 @@ Change the look of your bootloader with this simple script to change the grub de
 ## Manually
 
 ### Download the .zip file locally from terminal
-`wget https://github.com/collinstech256/Top10-Grub_bootloader_themes/archive/refs/heads/main.zip`
+``` bash
+wget https://github.com/collinstech256/Top10-Grub_bootloader_themes/archive/refs/heads/main.zip
+```
 
 ### Make sure you have sudo rights 
 ``` bash
@@ -14,17 +16,27 @@ $sudu su
 ```
 
 ### Add execution rights to the script
-`$sudo chmod +x install.sh`
+``` bash
+$sudo chmod +x install.sh
+```
 
 ### Or just run the command full with sudo rights 
- `$sudo ./install.sh.`
+ ``` bash 
+ $sudo ./install.sh.
+ ```
  
  ## **Automatically**
- `git clone https://github.com/collinstech256/Top10-Grub_bootloader_themes.git`
+ ``` bash
+ git clone https://github.com/collinstech256/Top10-Grub_bootloader_themes.git
+ ```
  
-  `cd Top10-Grub_bootloader_themes`
+  ``` bash
+  cd Top10-Grub_bootloader_themes
+  ```
   
- `sudo ./install.sh`
+ ``` bash
+ sudo ./install.sh
+ ```
  
  
  ## 1. ATOMIC 
