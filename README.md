@@ -15,9 +15,9 @@ Change the look of your bootloader with this simple script to change the grub de
  `$sudo ./install.sh.`
  
  ## **Automatically**
- `git clone https://github.com/collinstech256/Top10-Grub_bootloader_themes.git
-  cd Top10-Grub_bootloader_themes
-  sudo ./install.sh`
+ `git clone https://github.com/collinstech256/Top10-Grub_bootloader_themes.git`
+ ` cd Top10-Grub_bootloader_themes`
+ ` sudo ./install.sh`
  
  
  ## 1. ATOMIC 
