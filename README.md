@@ -5,8 +5,13 @@ Change the look of your bootloader with this simple script to change the grub de
 # **INSTALLATION **
 ## Manually
 
+### Download the .zip file locally from terminal
+`wget https://github.com/collinstech256/Top10-Grub_bootloader_themes/archive/refs/heads/main.zip`
+
 ### Make sure you have sudo rights 
-`$sudu su`
+``` bash
+$sudu su
+```
 
 ### Add execution rights to the script
 `$sudo chmod +x install.sh`
