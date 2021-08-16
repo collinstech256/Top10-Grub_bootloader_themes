@@ -16,8 +16,10 @@ Change the look of your bootloader with this simple script to change the grub de
  
  ## **Automatically**
  `git clone https://github.com/collinstech256/Top10-Grub_bootloader_themes.git`
- ` cd Top10-Grub_bootloader_themes`
- ` sudo ./install.sh`
+ 
+  `cd Top10-Grub_bootloader_themes`
+  
+ `sudo ./install.sh`
  
  
  ## 1. ATOMIC 
