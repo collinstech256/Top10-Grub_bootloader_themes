@@ -7,7 +7,7 @@ Change the look of your bootloader with this simple script to change the grub de
 
 ### Download the .zip file locally from terminal
 ``` bash
-wget https://github.com/collinstech256/Top10-Grub_bootloader_themes/archive/refs/heads/main.zip
+**$**wget https://github.com/collinstech256/Top10-Grub_bootloader_themes/archive/refs/heads/main.zip
 ```
 
 ### Make sure you have sudo rights 
